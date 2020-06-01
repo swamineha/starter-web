@@ -14,5 +14,7 @@ Simple Web Project
 
 ## How to Contribute
 
+Please fork this repo and pull
+
 ### Copyright
 2014.Git.Training
