@@ -10,5 +10,6 @@ This example is to show different parts of the repository and various commands u
 Sample website with plenty of files for demos
 Simple example
 ## Delpoyment
+Simple Web Project
 
 ## How to Contribute
