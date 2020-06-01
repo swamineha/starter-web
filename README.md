@@ -8,7 +8,7 @@ This example is to show different parts of the repository and various commands u
 ## Purpose
 
 Sample website with plenty of files for demos
-
+Simple example
 ## Delpoyment
 
 ## How to Contribute
